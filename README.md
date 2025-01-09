@@ -25,7 +25,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları t
 
 1. Bu repoyu klonlayın:
    ```bash
-   git clone https://github.com/kullanici-adi/arslantepe-hoyukleri
+   git clone https://github.com/enesarslan-dev/Arslante-Hoyukleri-Web-Site
    ```
 2. Proje klasörünü açın:
    ```bash
